@@ -1,0 +1,2 @@
+# -Big-Mart-Sales-Prediction
+This project is based on supervised machine learning. Where we can predict the total outlet sales of grocery stores like Big Mart based on various features. This is a regression problem.  Performed data cleaning,data analysis,Feature selection, and Modelling.  In modelling applied various regression algorithms and compared performance evaluation matrix.And found best suitable regression algorithm.
